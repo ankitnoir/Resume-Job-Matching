@@ -1,0 +1,12 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Personal resume data - DO NOT UPLOAD
+data/resume_dataset/
+data/resumes.csv
+
+# Temporary files
+.DS_Store
+*.log

@@ -1,0 +1,15 @@
+# ---------------- Application (front-end) ----------------
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+
+# ---------------- NLP / ML backend ----------------
+PyMuPDF>=1.23              # PDF text extraction (install "PyMuPDF", not a package called "fitz")
+scikit-learn>=1.3          # TF-IDF + Logistic Regression classifier
+joblib>=1.3                # saving / loading the trained classifier
+spacy>=3.7                 # lemmatisation for the classifier (optional: falls back to simple tokenisation)
+sentence-transformers>=2.7 # semantic embeddings (pulls in torch; model downloads once on first run)
+
+# After installing, download the spaCy English model once:
+#   python -m spacy download en_core_web_sm

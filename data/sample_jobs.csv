@@ -1,0 +1,12 @@
+
+job_id,title,company,location,category,description
+1,Data Analyst,TechSolutions,Noida,Data Science,"Analyze business data using Python SQL Excel and Power BI. Build dashboards and reports. Knowledge of statistics and data visualization required."
+2,Data Scientist,AnalyticsHub,Bangalore,Data Science,"Develop machine learning models using Python pandas numpy and scikit-learn. Perform data analysis feature engineering and model evaluation."
+3,Machine Learning Engineer,AI Labs,Delhi,Artificial Intelligence,"Build and deploy machine learning models using Python TensorFlow PyTorch and scikit-learn. Experience with model optimization and deep learning is preferred."
+4,Python Developer,CodeWorks,Noida,Software Development,"Develop backend applications using Python Django Flask REST APIs and SQL databases. Knowledge of Git and software development practices required."
+5,Frontend Developer,WebCraft,Gurugram,Web Development,"Build responsive web applications using HTML CSS JavaScript React and modern frontend frameworks. Knowledge of UI design and API integration required."
+6,Backend Developer,CloudTech,Hyderabad,Software Development,"Design backend services using Python Java or Node.js. Work with REST APIs databases SQL and cloud deployment. Knowledge of Git required."
+7,NLP Engineer,LanguageAI,Bangalore,Artificial Intelligence,"Develop natural language processing solutions using Python NLP transformers spaCy NLTK and deep learning. Experience with text classification and language models preferred."
+8,Data Engineer,DataFlow,Pune,Data Engineering,"Build data pipelines using Python SQL Apache Spark and ETL tools. Work with data warehouses cloud platforms and large datasets."
+9,AI Research Intern,FutureAI,Noida,Artificial Intelligence,"Assist in AI research projects involving Python machine learning deep learning neural networks and model evaluation."
+10,Business Analyst,InsightWorks,Delhi,Business Analytics,"Analyze business requirements and datasets using Excel SQL Power BI and statistics. Prepare reports and communicate insights to stakeholders."
